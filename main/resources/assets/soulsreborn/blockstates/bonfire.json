@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "soulsreborn:block/bonfire"
+    },
+    "lit=true": {
+      "model": "soulsreborn:block/bonfire_lit"
+    }
+  }
+}

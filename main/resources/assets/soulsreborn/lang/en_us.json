@@ -1,0 +1,33 @@
+{
+  "itemGroup.soulsreborn": "Souls Reborn",
+
+  "item.soulsreborn.bonfire_kit": "Bonfire Kit",
+  "item.soulsreborn.estus_flask": "Estus Flask",
+
+  "block.soulsreborn.bonfire": "Bonfire",
+
+  "tooltip.soulsreborn.bonfire_kit": "Used to create a bonfire",
+  "tooltip.soulsreborn.estus_flask": "Heals a significant amount of health",
+
+  "gui.soulsreborn.bonfire": "Bonfire",
+  "gui.soulsreborn.class_selection": "Choose Your Class",
+
+  "message.soulsreborn.souls_gained": "+%s souls",
+
+  "tooltip.soulsreborn.soul": "Consume to gain 100 souls",
+
+  "stat.soulsreborn.vigor": "Vigor",
+  "stat.soulsreborn.endurance": "Endurance",
+  "stat.soulsreborn.strength": "Strength",
+  "stat.soulsreborn.dexterity": "Dexterity",
+  "stat.soulsreborn.intelligence": "Intelligence",
+  "stat.soulsreborn.faith": "Faith",
+  "stat.soulsreborn.luck": "Luck",
+
+  "class.soulsreborn.warrior": "Warrior",
+  "class.soulsreborn.knight": "Knight",
+  "class.soulsreborn.mage": "Mage",
+  "class.soulsreborn.cleric": "Cleric",
+  "class.soulsreborn.thief": "Thief",
+  "class.soulsreborn.deprived": "Deprived"
+}
